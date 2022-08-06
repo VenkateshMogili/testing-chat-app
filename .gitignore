@@ -2,7 +2,7 @@
 .firebase
 
 # dependencies
-#/build
+/build
 
 /node_modules
 
